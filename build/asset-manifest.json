@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Tarea3/static/css/main.c9d3667d.chunk.css",
-    "main.js": "/Tarea3/static/js/main.246f6cee.chunk.js",
-    "main.js.map": "/Tarea3/static/js/main.246f6cee.chunk.js.map",
-    "runtime-main.js": "/Tarea3/static/js/runtime-main.a92d02c8.js",
-    "runtime-main.js.map": "/Tarea3/static/js/runtime-main.a92d02c8.js.map",
-    "static/js/2.34976919.chunk.js": "/Tarea3/static/js/2.34976919.chunk.js",
-    "static/js/2.34976919.chunk.js.map": "/Tarea3/static/js/2.34976919.chunk.js.map",
-    "static/js/3.10e00477.chunk.js": "/Tarea3/static/js/3.10e00477.chunk.js",
-    "static/js/3.10e00477.chunk.js.map": "/Tarea3/static/js/3.10e00477.chunk.js.map",
-    "index.html": "/Tarea3/index.html",
-    "static/css/main.c9d3667d.chunk.css.map": "/Tarea3/static/css/main.c9d3667d.chunk.css.map",
-    "static/js/2.34976919.chunk.js.LICENSE.txt": "/Tarea3/static/js/2.34976919.chunk.js.LICENSE.txt",
-    "static/media/avion2.e01f0b9e.svg": "/Tarea3/static/media/avion2.e01f0b9e.svg"
+    "main.css": "/IIC3103-T3-JoaquinTerreros/static/css/main.c9d3667d.chunk.css",
+    "main.js": "/IIC3103-T3-JoaquinTerreros/static/js/main.6e145725.chunk.js",
+    "main.js.map": "/IIC3103-T3-JoaquinTerreros/static/js/main.6e145725.chunk.js.map",
+    "runtime-main.js": "/IIC3103-T3-JoaquinTerreros/static/js/runtime-main.c40913d5.js",
+    "runtime-main.js.map": "/IIC3103-T3-JoaquinTerreros/static/js/runtime-main.c40913d5.js.map",
+    "static/js/2.78f29365.chunk.js": "/IIC3103-T3-JoaquinTerreros/static/js/2.78f29365.chunk.js",
+    "static/js/2.78f29365.chunk.js.map": "/IIC3103-T3-JoaquinTerreros/static/js/2.78f29365.chunk.js.map",
+    "static/js/3.aeb30123.chunk.js": "/IIC3103-T3-JoaquinTerreros/static/js/3.aeb30123.chunk.js",
+    "static/js/3.aeb30123.chunk.js.map": "/IIC3103-T3-JoaquinTerreros/static/js/3.aeb30123.chunk.js.map",
+    "index.html": "/IIC3103-T3-JoaquinTerreros/index.html",
+    "static/css/main.c9d3667d.chunk.css.map": "/IIC3103-T3-JoaquinTerreros/static/css/main.c9d3667d.chunk.css.map",
+    "static/js/2.78f29365.chunk.js.LICENSE.txt": "/IIC3103-T3-JoaquinTerreros/static/js/2.78f29365.chunk.js.LICENSE.txt",
+    "static/media/avion2.e01f0b9e.svg": "/IIC3103-T3-JoaquinTerreros/static/media/avion2.e01f0b9e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a92d02c8.js",
-    "static/js/2.34976919.chunk.js",
+    "static/js/runtime-main.c40913d5.js",
+    "static/js/2.78f29365.chunk.js",
     "static/css/main.c9d3667d.chunk.css",
-    "static/js/main.246f6cee.chunk.js"
+    "static/js/main.6e145725.chunk.js"
   ]
 }
