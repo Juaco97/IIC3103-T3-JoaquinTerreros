@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tarea3/static/css/main.c9d3667d.chunk.css",
+    "main.js": "/Tarea3/static/js/main.246f6cee.chunk.js",
+    "main.js.map": "/Tarea3/static/js/main.246f6cee.chunk.js.map",
+    "runtime-main.js": "/Tarea3/static/js/runtime-main.a92d02c8.js",
+    "runtime-main.js.map": "/Tarea3/static/js/runtime-main.a92d02c8.js.map",
+    "static/js/2.34976919.chunk.js": "/Tarea3/static/js/2.34976919.chunk.js",
+    "static/js/2.34976919.chunk.js.map": "/Tarea3/static/js/2.34976919.chunk.js.map",
+    "static/js/3.10e00477.chunk.js": "/Tarea3/static/js/3.10e00477.chunk.js",
+    "static/js/3.10e00477.chunk.js.map": "/Tarea3/static/js/3.10e00477.chunk.js.map",
+    "index.html": "/Tarea3/index.html",
+    "static/css/main.c9d3667d.chunk.css.map": "/Tarea3/static/css/main.c9d3667d.chunk.css.map",
+    "static/js/2.34976919.chunk.js.LICENSE.txt": "/Tarea3/static/js/2.34976919.chunk.js.LICENSE.txt",
+    "static/media/avion2.e01f0b9e.svg": "/Tarea3/static/media/avion2.e01f0b9e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a92d02c8.js",
+    "static/js/2.34976919.chunk.js",
+    "static/css/main.c9d3667d.chunk.css",
+    "static/js/main.246f6cee.chunk.js"
+  ]
+}

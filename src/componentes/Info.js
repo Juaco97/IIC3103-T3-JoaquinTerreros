@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import socket from './Socket';
 import { MapContainer, TileLayer, Marker, Polyline, CircleMarker, Popup} from "react-leaflet";
-import { Icon} from 'leaflet'
+import {Icon} from 'leaflet'
 import imagen from './avion2.svg';
 
 
@@ -26,14 +26,17 @@ const Info = () => {
         setVuelos(mensaje);
       });
     }, []);
-    
+        
     // Se consumen las posiciones
     useEffect(() => {
       socket.on('POSITION', mensaje => {
-        setPosiciones((prev) => ([...prev, mensaje]));
+        setPosiciones(prev => ([...prev, mensaje]));
         setUltimaPosicion((prev) => ({...prev, [mensaje.code]: mensaje.position}));
       })
     }, []);
+    
+    console.log(posiciones);
+
     
   
     return (
@@ -52,9 +55,10 @@ const Info = () => {
           
           {
             vuelos.map(function(vuelo) {
+             
               return (
                 <Polyline
-                  posiciones={[[vuelo.origin[0], vuelo.origin[1]], [vuelo.destination[0], vuelo.destination[1]]]}
+                positions={[ [vuelo.origin[0], vuelo.origin[1]], [vuelo.destination[0], vuelo.destination[1]] ]}
                 />
               )
             })
